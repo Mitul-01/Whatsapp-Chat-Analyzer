@@ -1,0 +1,12 @@
+streamlit
+matplotlib
+urlextract
+wordcloud
+collections
+pandas
+re
+
+
+
+
+
